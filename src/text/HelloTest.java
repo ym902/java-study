@@ -1,3 +1,5 @@
+package text;
+
 public class HelloTest {
   // 画面に文字を出力する
   public static void main(String[] args) {
