@@ -9,10 +9,14 @@ Javaの基本構文を学習するリポジトリです。
 3. 使用ツールについて
 - JavaSE
 - JDK
-4. ファイル説明（srcフォルダ内のファイル）
-- practice
+4. ファイル説明（src）
+- practice : 練習問題 
   - Practice01 : 自分の名前を画面に出力
-- HelloTest.java : 画面に文字を出力
+  - Practice02 : 変数
+
+- text : 講義内容
+  - HelloTest.java : 画面に文字を出力
+  - VariableTest.java : 変数、定数
 
 ## その他
 - Javaの開発環境には、Eclipseもある
