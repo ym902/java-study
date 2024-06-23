@@ -10,7 +10,9 @@ Javaの基本構文を学習するリポジトリです。
 - JavaSE
 - JDK
 4. ファイル説明（srcフォルダ内のファイル）
-- 
+- practice
+  - Practice01 : 自分の名前を画面に出力
+- HelloTest.java : 画面に文字を出力
 
 ## その他
 - Javaの開発環境には、Eclipseもある
