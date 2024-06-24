@@ -1,5 +1,5 @@
 # java-study
-Javaの基本構文を学習するリポジトリです。
+Javaの基本構文を学習したリポジトリです。
 
 ## 学習手順
 1. VSCodeでJava環境を構築
@@ -17,6 +17,7 @@ Javaの基本構文を学習するリポジトリです。
 - text : 講義内容
   - HelloTest.java : 画面に文字を出力
   - VariableTest.java : 変数、定数
+  - OperatorTest.java : 演算子
 
 ## その他
 - Javaの開発環境には、Eclipseもある
