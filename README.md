@@ -20,6 +20,7 @@ Javaの基本構文を学習したリポジトリです。
   - OperatorTest.java : 演算子
   - CastTest.java : キャスト
   - ArrayTest : 配列
+  - IfTest.java : 条件分岐
 
 ## その他
 - Javaの開発環境には、Eclipseもある
